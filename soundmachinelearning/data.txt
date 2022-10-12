@@ -1,0 +1,1 @@
+{'face': './image/image18/image18.png', 'charactor': './image/image18/18.png', 'name': '----鬼頭明里----', 'charactorname': '禰󠄀豆子(鬼滅の刃)'}
